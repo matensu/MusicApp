@@ -10,11 +10,14 @@
     "test": "jest"
   },
   "dependencies": {
-    "@react-native/new-app-screen": "0.82.1",
+    "@expo/vector-icons": "^15.0.3",
+    "@react-native-community/slider": "^5.1.1",
     "@react-navigation/bottom-tabs": "^7.8.6",
     "@react-navigation/native": "^7.1.21",
     "@react-navigation/native-stack": "^7.8.0",
     "@types/react-native-vector-icons": "^6.4.18",
+    "axios": "^1.6.2",
+    "expo-asset": "^12.0.10",
     "react": "19.1.1",
     "react-native": "0.82.1",
     "react-native-gesture-handler": "^2.29.1",
@@ -22,8 +25,12 @@
     "react-native-safe-area-context": "^5.6.2",
     "react-native-screens": "^4.18.0",
     "react-native-svg": "^15.15.0",
-    "react-native-track-player": "^4.1.2",
-    "react-native-vector-icons": "^10.3.0"
+    "react-native-track-player": "^5.0.0-alpha0-nightly-359af5a12d712d3b685530aed9b9625865a25d74",
+    "react-native-vector-icons": "^10.3.0",
+    "react-native-worklets": "^0.6.1",
+    "react-redux": "^9.1.0",
+    "redux": "^5.0.1",
+    "redux-thunk": "^3.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.25.2",
